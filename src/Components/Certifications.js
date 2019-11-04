@@ -17,7 +17,7 @@ class Certifications extends Component {
             <h2 className="mb-5">Certifications</h2>
             <ul className="fa-ul mb-0">
             {
-                this.awards.map((data, index) => (
+                this.certifications.map((data, index) => (
                     <li key={index}>
                 <FontAwesomeIcon icon={faAward} color="#ffc107" />
                 <span className="ml-2"> {data.certDetails} </span>

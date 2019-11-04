@@ -40,7 +40,7 @@ class App extends Component {
           <hr className="m-0" />
           <Awards awards={this.state.awards} />
           <hr className="m-0" />
-          <Awards certifications={this.state.certifications} />
+          <Certifications certifications={this.state.certifications} />
         </div>
       </div>
     );
