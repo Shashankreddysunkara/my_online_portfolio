@@ -1,0 +1,194 @@
+{
+  "landing": {
+    "firstName": "Shashank Reddy",
+    "lastName": "Sunkara",
+    "phoneNumber": "816-248-5357",
+    "bio": "I’m a multi-disciplinary SRE practicing DevOps culture, positioned as a DevOps Automation Engineer who’s delivered creative and engaging CI/CD pipelines to turn concept into cash, Microservices deployment into cloud foundry and production support (worked with the development and operations team) on site reliability with cognizance and experience in multiple technologies including but not limited to Devops, Analytics, Documentation and Management for multiple critical applications onsite and I have also provided 24/7 on-call Level 3 production support to applications in production & Lower env's and handled 2 application and 4 web servers via IAF deployment tool.\n\nI resolved critical issues related to ELK (Timeout issues, Configurations, and Stability in all environments), OpenStack (Instance resources management, instance floating IP address attachment, creation and bouncing of instances), Cloud Foundry (Blue-Green deployment failures, timeouts and manifest file configurations) and Jenkins (Pipeline build time-out issues on client side, plugins, Master-slave creation via OpenStack cloud plugin, Jenkins shared library, Jenkinsfile configurations, and Jenkins jobs).\n\nCollaboration with the on-site and offshore teams is such a great experience to me because that's a platform where I gained much knowledge and shared each other's thoughts on increasing productivity of applications and adoption of new technologies.\n\nIt's been a pleasure to say that as a crucial team member, I have put my best of Information Technology and computer science tools & skills to work in medium to high complexity issues and risks by collaborating & participating in the agile methodology process among multiple technical and business teams.\n\nIf you have a project I can help with, please get in touch with a Full-time and visa sponsorship offer for H1B and GC \uD83D\uDE03.\n\nHave a Great Day!!! ",
+    "email": "sunkaras58@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/reddy-s/",
+    "github": "https://github.com/Shashankreddysunkara/"
+  },
+  "experience": [
+    {
+      "position": "DevOps Engineer",
+      "organization": "Freddie Mac",
+      "aboutWork": "•\tManages environments requests and environment allocation to project teams.\n•\tManages health of the environment and proactively coordinate as well as resolve the environment downtime related issues.\n•\tInitiates and tracks the environment build-out requests for traditional as well as new technologies (Docker, OpenShift, Cloud etc.).\n•\tProvides dedicated support for business-critical environments (upgrades, data refresh, customer issue resolutions).\n•\tProvides the governance for all Perf environments and ensure SLA compliance Supporting DBA and Data copy requests.\n•\tTroubleshooting environment and application issues.\n•\tEnsuring Non-Prod environments stability and availability.\n•\tSupporting New production environment build out and deployment.\n•\tMaintains and Manages software version modification of project ecosystem.\n•\tDevelops and maintain a CI/CD pipeline and ansible scripts.\n•\tApplies experience of DevOps/SCM best practices to enable highly available & reliable systems.\n•\tTake full end to end ownership of certain elements/business processes/capabilities within the Atlassian suite.\n•\tVetting new Atlassian feature ideas, configurations etc.\n•\tMaintains up-to-date knowledge of the Atlassian products, process best practices and obtain and maintain certification with the various Atlassian products.\n•\tMaintains Atlassian tools in both a Unix and Windows environments.\n•\tPerforms end-user activities in the Atlassian tools, such as create maintain workflows in JIRA, author content in Confluence, create build plans in Bamboo, etc.\n",
+      "fromDate": "June 2019",
+      "toDate": "Present"
+    },
+    {
+      "position": "IT TECHNICAL ANALYST IV",
+      "organization": "DEERE & COMPANY WHQ",
+      "aboutWork": "•\tInvolved myself in discussions related to application production issues with Architects, tech leads, infrastructure analysts, business analysts and developers.\n•\tProficiently served my cloud foundry skills to resolve timeout issues, blue-green deployments in testing and production environments.\n•\tDelivered effective technical support (application, software and operations) in all environments for a critical legacy application.\n•\tInvolved in the technical incident resolution with prioritization and escalation by involving business, application, DBA and ops teams.\n•\tResolved issues related to application code enhancements and deployments in cloud, CI/CD pipelines, ELK logs, performance monitoring and database querying.\n•\tCollaborated with development team to troubleshoot and resolve issues. \n•\tInteracted and contributed my work with multiple team in flow dock collaboration tool.\n•\tEnhanced the micro services code using 12 factors which had resolved the major production issue and thus satisfied business requirements.\n•\tResponsible for the maintaining and succeeding the pipeline jobs as green in Jenkins, micro services, Git/Subversion repositories, ELK and Cloud Foundry data centers, OpenStack instances.\n•\tCollaborated with architect to resolve the issues. \n•\tStrengthened developmental methodologies and maintenance of process and associated scripts for automated build, testing and deployment of applications to various environments. \n•\tDeleted and created new pipelines for the applications that causing the issues. \n•\tWritten groovy and shell scripts for Jenkins jobs as a POC for the new implementation of jobs functionalities. \n•\tPerformed Solr indexing with verification on prod environment for syncing data from DB2 to Solr. \n•\tProvided production support 24/7 using application performance management tool like app dynamics for all the business-critical applications.\n•\tWorked on SiteScope alerts related to application production outages and provided RCA with 3L5Y.\n•\tWorked on ELK stack for the purpose of logs and maintained the Kibana instances when the space runs out by using Linux commands. \n•\tUtilized JFrog artifactory to upload/download the build artifacts after a successful build. \n•\tInstalled, configured and administered Jenkins and PCF dev on Linux machines in OpenStack.\n",
+      "fromDate": "OCT 2018",
+      "toDate": "MAY 2019"
+    },
+    {
+      "position": "SOFTWARE ENGINEER",
+      "organization": "DEERE & COMPANY WHQ",
+      "aboutWork": "•\tCreated and maintained fully automated Jenkins pipelines.\n•\tDeveloped database including creation of new tables and CRUD operations using SQL on data.\n•\tActively managed, improved, and monitored cloud infrastructure on cloud foundry through Jenkins including backups, patches, and scaling. \n•\tWorked with team by using Vivify Scrum collaboration tool.\n•\tFacilitated with development methodologies including Agile. \n•\tFocused on automation integration monitoring and configuration management. \n•\tProvided assistance to engineers on performance tuning for critical areas. \n•\tBuilt, tested and deployed scalable, highly available and modular software application services using executable shell from Jenkins to deploy to cloud foundry and modifying its state. \n•\tCognizance on using eclipse and STS to debug the code.\n•\tWorked on the Jenkins jobs, micro services, Git/Subversion repositories. \n•\tPerformed enhancements in code to turn into full micro services, improving developer workflow, increasing scalability and optimizing speed. \n",
+      "fromDate": "APR 2018",
+      "toDate": "OCT 2018"
+    },
+    {
+      "position": "SOFTWARE ENGINEER",
+      "organization": "SOFTWORLD TECHNOLOGIES",
+      "aboutWork": "•\tInvolved in all phases of Software Development Life Cycle (SDLC) like requirements gathering, analysis, design, development, and deployment of various modules.\n•\tAnalyzed user requirements, procedures, and problems to automate processing or to improve existing computer systems.\n•\tInteracted with the system/business analysts to understand the business requirement before translating into nonfunctional HTML pages.\n•\tConferred with personnel organizational units involved to analyze current operational procedures, identify problems and learn the specific output requirements.\n•\tDocumented detailed descriptions of users need to develop functional and technical specifications.\n•\tCollaboration with teams and attending technical meetings for discussing on application disaster recovery plans and deployment rollback plans.\n•\tUse of computer/software technologies like Jenkins, Cloud foundry, AngularJS, Dynatrace, HTML, CSS, ELK, Web UI design, Java/J2EE, and spring boot to provide solutions to user needs.\n•\tWorked on micro services & its enhancements, NoSQL database, and SQL databases.\n•\tPerformed command line execution of scripts, configurations, CRON jobs.\n•\tExecution of the commands through Jenkins jobs on Cloud foundry environment.\n",
+      "fromDate": "FEB 2018",
+      "toDate": "APR 2018"
+    }
+  ],
+  "education": [
+    {
+    "university": "Northwest Missouri State University",
+    "degree": "Master's",
+    "gpa": "3.5",
+    "fromDate": "Aug 2016",
+    "toDate": "DEC 2017"
+    },
+    {
+      "university": "SR Engineering College",
+      "degree": "Bachelor's",
+      "gpa": "3.6",
+      "fromDate": "APR 2012",
+      "toDate": "MAY 2016"
+    }
+  ],
+  "skills": [{
+    "name": "Jenkins"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "VMWare"
+    },
+    {
+      "name": "Cloud Foundry"
+    },
+    {
+      "name": "PCF"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Open Stack"
+    },
+    {
+      "name": "Open Shift"
+    },
+    {
+      "name": "App Dynamics"
+    },
+    {
+      "name": "ELK (Elastic Search, Logstash, & Kibana)"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "Splunk"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Groovy"
+    },
+    {
+      "name": "Apache Solr"
+    },
+    {
+      "name": "Oracle 12c"
+    },
+    {
+      "name": "Microsoft SQL Server Client"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Jira, Confluence, WebLogic 12c, MobaXterm, MySQL, Stratos UI, JFrog, Java (Monolithic & Microservices), CA Agile Rally, Centos, REST API, TCP/IP, , Visio, GitHub and Super Putty"
+    },
+    {
+      "name": "Jira"
+    },
+    {
+      "name": "Confluence"
+    },
+    {
+      "name": "Weblogic 12c"
+    },
+    {
+      "name": "MobaXterm"
+    },
+    {
+      "name": "Stratos UI"
+    },
+    {
+      "name": "JFrog"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Rally"
+    },
+    {
+      "name": "Centos"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Apigee"
+    },
+    {
+      "name": "Visio"
+    },
+    {
+      "name": "Github"
+    },
+    {
+      "name": "PUTTY"
+    }
+  ],
+  "interests": {
+    "paragraphOne": "Apart from being a DevOps Engineer, I enjoy most of my time being outdoors and indoors. Here in Virginia, I enjoy volleyball, table tennies, billiards and kayaking.",
+    "paragraphTwo": "In indoors, I watch movies and television shows, and I spend a large amount of my free time exploring the latest technology advancements in the DevOps world."
+  },
+  "awards": [{
+    "awardDetail": "Received distinguished graduate student scholarship in NWMSU."
+  },
+    {
+      "awardDetail": "Achieved International student scholarship."
+    },
+    {
+      "awardDetail": "Received State level winner trophy for a technical paper presentation."
+    },
+    {
+      "awardDetail": "Awarded distinctive performance on 2nd International Mathematics Olympiad."
+    }
+  ],
+  "certifications": [
+    {
+      "certDetails": "DevOps Foundations"
+    },
+    {
+      "certDetails": "Learning Ansible"
+    },
+    {
+      "certDetails": "Oracle SQL"
+    },
+    {
+      "certDetails": "Cloud foundry & Cloud native architecture"
+    }
+  ]
+}
